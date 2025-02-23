@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 /** info id **/
-global.owner = "923466586515@s.whatsapp.net"
+global.owner = "2348024322741@s.whatsapp.net"
 global.idch = "nadir-md"
 
 /** your dad nadir md **/
